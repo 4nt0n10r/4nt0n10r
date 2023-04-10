@@ -12,5 +12,3 @@ Actualmente me estoy formando a través de un Grado Superior en Desarrollo de Ap
 *   ✉️  Puedes contactar conmigo en: [antonioruz84@gmail.com](mailto:antonioruz84@gmail.com)
 *   🧠  Actualmente me encuentro aprendiendo Python, Java, React, Angular y NodeJS
 *   🚀  Me encuentro perfeccionando HTML, CSS, MySQL, JavaScript y MongoDB
-
-[![HTML_CSS_JavaScript_Python_Java_MySQL_MongoDB_ReactJS_NodeJS_](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=HTML_CSS_JavaScript_Python_Java_MySQL_MongoDB_ReactJS_NodeJS_)](https://pimp-my-readme.webapp.io)
